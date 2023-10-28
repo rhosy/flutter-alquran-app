@@ -1,0 +1,185 @@
+{
+    "juz": [
+       {
+        "number": 1,
+        "start": "Al-Fatihah 1",
+        "end": "Al-Baqarah 141",
+        "text": "بِسْمِ اللَّهِ"
+       },
+       {
+        "number": 2,
+        "start": "Al-Baqarah 142",
+        "end": "Al-Baqarah 252",
+        "text": "سَيَقُولُ"
+       },
+       {
+        "number": 3,
+        "start": "Al-Baqarah 253",
+        "end": "Al-Imran 91",
+        "text": "تِلْكَ ٱلْرُّسُلُ"
+       },
+       {
+        "number": 4,
+        "start": "Al-Imran 92",
+        "end": "An-Nisa' 23",
+        "text": "لَن تَنَالُوا"
+       },
+       {
+        "number": 5,
+        "start": "An-Nisa' 24",
+        "end": "An-Nisa' 147",
+        "text": "وَٱلْمُحْصَنَاتُ"
+       },
+       {
+        "number": 6,
+        "start": "An-Nisa' 148",
+        "end": "Al-Ma'idah 82",
+        "text": "لَا يُحِبُّ ٱللهُ"
+       },
+       {
+        "number": 7,
+        "start": "Al-Ma'idah 83",
+        "end": "Al-An'am 110",
+        "text": "وَإِذَا سَمِعُوا"
+       },
+       {
+        "number": 8,
+        "start": "Al-An'am 111",
+        "end": "Al-A'raf 87",
+        "text": "وَلَوْ أَنَّنَا"
+       },
+       {
+        "number": 9,
+        "start": "Al-A'raf 88",
+        "end": "Al-Anfal 40",
+        "text": "قَالَ ٱلْمَلَأُ"
+       },
+       {
+        "number": 10,
+        "start": "Al-Anfal 41",
+        "end": "At-Taubah 93",
+        "text": "وَٱعْلَمُواْ"
+       },
+       {
+        "number": 11,
+        "start": "At-Taubah 94",
+        "end": "Hud 5",
+        "text": "يَعْتَذِرُونَ"
+       },
+       {
+        "number": 12,
+        "start": "Hud 6",
+        "end": "Yusuf 52",
+        "text": "وَمَا مِنْ دَآبَّةٍ"
+       },
+       {
+        "number": 13,
+        "start": "Yusuf 53",
+        "end": "Al-Hijr 1",
+        "text": "وَمَا أُبَرِّئُ"
+       },
+       {
+        "number": 14,
+        "start": "Al-Hijr 2",
+        "end": "An-Nahl 128",
+        "text": "رُبَمَا"
+       },
+       {
+        "number": 15,
+        "start": "Al-Isra' 1",
+        "end": "Al-Kahf 74",
+        "text": "سُبْحَانَ ٱلَّذِى"
+       },
+       {
+        "number": 16,
+        "start": "Al-Kahf 75",
+        "end": "Thaha 135",
+        "text": "قَالَ أَلَمْ"
+       },
+       {
+        "number": 17,
+        "start": "Al-Anbiya' 1",
+        "end": "Al-Hajj 78",
+        "text": "ٱقْتَرَبَ لِلْنَّاسِ"
+       },
+       {
+        "number": 18,
+        "start": "Al-Mu'minun 1",
+        "end": "Al-Furqan 20",
+        "text": "قَدْ أَفْلَحَ"
+       },
+       {
+        "number": 19,
+        "start": "Al-Furqan 21",
+        "end": "An-Naml 59",
+        "text": "وَقَالَ ٱلَّذِينَ"
+       },
+       {
+        "number": 20,
+        "start": "An-Naml 60",
+        "end": "Al-'Ankabut 44",
+        "text": "أَمَّنْ خَلَقَ"
+       },
+       {
+        "number": 21,
+        "start": "Al-'Ankabut 45",
+        "end": "Al-Ahzab 30",
+        "text": "أُتْلُ مَاأُوْحِیَ"
+       },
+       {
+        "number": 22,
+        "start": "Al-Ahzab 31",
+        "end": "Yasin 21",
+        "text": "وَمَنْ يَّقْنُتْ"
+       },
+       {
+        "number": 23,
+        "start": "Yasin 22",
+        "end": "Az-Zumar 31",
+        "text": "وَمَآ لي"
+       },
+       {
+        "number": 24,
+        "start": "Az-Zumar 32",
+        "end": "Fushshilat 46",
+        "text": "فَمَنْ أَظْلَمُ"
+       },
+       {
+        "number": 25,
+        "start": "Fushshilat 47",
+        "end": "Al-Jatsiyah 37",
+        "text": "إِلَيْهِ يُرَدُّ"
+       },
+       {
+        "number": 26,
+        "start": "Al-Ahqaf 1",
+        "end": "Adz-Dzariyat 30",
+        "text": "حم"
+       },
+       {
+        "number": 27,
+        "start": "Adz-Dzariyat 31",
+        "end": "Al-Hadid 29",
+        "text": "قَالَ فَمَا خَطْبُكُم"
+       },
+       {
+        "number": 28,
+        "start": "Al-Mujadalah 1",
+        "end": "At-Tahrim 12",
+        "text": "قَدْ سَمِعَ ٱللهُ"
+       },
+       {
+        "number": 29,
+        "start": "Al-Mulk 1",
+        "end": "Al-Mursalat 50",
+        "text": "تَبَارَكَ ٱلَّذِى"
+       },
+       {
+        "number": 30,
+        "start": "An-Naba' 1",
+        "end": "An-Nas 6",
+        "text": "عَمَّ"
+       }
+      
+    ]
+}
